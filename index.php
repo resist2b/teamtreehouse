@@ -1,3 +1,5 @@
 <?php
-echo "this is moataz";
+$name="Moataz";
+echo "this is ".$name;
+
 ?>
